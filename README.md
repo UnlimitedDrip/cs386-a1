@@ -3,7 +3,7 @@ CS 386 Worksheet Assignment
 # MyCarDriver
 ## Installation and Developers
 [pip](https://pypi.org/project/pip/)
-![Pip logo](https://pypi.org/static/images/logo-small.95de8436.png)
+![Pip logo](https://shorturl.at/mnrwB)
 - **Aaron Santiago**
 - Nicholas Robishaw
 - *Sergio Rabadan*
